@@ -17,7 +17,8 @@ There are 4 nucleotide bases in DNA. These are Adenine (A), Thymine (T), Cytosin
 
 When cells synthesize proteins, they use DNA codons. Codons are a group of 3 nucleotides. They represent a specific amino acid (proteins are made up of amino acids) that can be synthesized through cell organelle called ribosome. Genes are codon sequences which start with ATG (Methionine - Start codon) and end with one of the Stop codons (TAA, TGA or TAG). We can say that nucleotides are letters of the language, codons are words and genes are paragraphs.
 
-<img width="484" alt="Screen Shot 2023-05-31 at 15 39 48" src="https://github.com/inomisay/Life-on-Mars-/assets/98346164/41c37887-47ad-4217-af2d-e6dbabf306c5">
+<img width="970" alt="Screen Shot 2023-05-31 at 15 44 05" src="https://github.com/inomisay/Life-on-Mars-/assets/98346164/d950b980-cd49-4134-bf6c-878edcd88042">
+
 
 #  DNA Operations
 
